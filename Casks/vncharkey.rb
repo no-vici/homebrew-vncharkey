@@ -1,6 +1,6 @@
 cask "vncharkey" do
   version "0.3.7"
-  sha256 "b74c9c41ea421185e07ce60546a711cf3178c3da9fe2404d6f510f3b26977029"
+  sha256 "ac597c821952cb7ba256ab18381b02308c34a43283bb51a3515d74dbb32c6663"
 
   url "https://github.com/no-vici/vncharkey/releases/download/v#{version}/VnCharKey-#{version}.dmg"
   name "vnchKey"
